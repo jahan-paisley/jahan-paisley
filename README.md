@@ -12,7 +12,11 @@
 - !-->
 
 
-| Projects and Sample Code                                        | Technologies                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| OCaml | https://github.com/jzinedine/ocaml-learning |
+| Main Language                                 | Project                                          | Technologies
+| ------------------------------------------- | ----------------------------------------------------- | -----------------------------------------------------
+| OCaml | ["Introduction to Functional Programming in OCaml" problems](https://github.com/jzinedine/ocaml-learning) | OCaml
+| Ruby | [Real Estate Ad Collection and Analysis](https://github.com/jzinedine/rahnama_dot_com_scraper) | Ruby, ElasticSeach, Kibana, Sqlite, Capybara, Whenever, Thor
+| Ruby | [An incomplete Leasing web app](https://github.com/jzinedine/leasing) | Typical Ruby App
+| Ruby | [My First Ruby Project, A Simple Ruby Script querying emails on IMAP, find attachments(Excel 2007 Files), fetch relevant data from Sql Server 2008 R2, generates reply and send it back](https://github.com/jzinedine/Profile_Filler) | Ruby, mail, axlsx, roo, tiny_tds, net/smtp, log4r, zip
+
 
