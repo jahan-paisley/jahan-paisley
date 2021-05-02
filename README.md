@@ -21,6 +21,7 @@
 | | Ruby | [An incomplete Leasing web app](https://github.com/jzinedine/leasing) | Typical Ruby App
 | | Ruby | [My First Ruby Project, A Simple Ruby Script querying emails on IMAP, find attachments(Excel 2007 Files), fetch relevant data from Sql Server 2008 R2, generates reply and send it back](https://github.com/jzinedine/Profile_Filler) | Ruby, mail, axlsx, roo, tiny_tds, net/smtp, log4r, zip
 | | Ruby/Problem Solving/Fun! | [ProjectEuler.net Problems](https://github.com/jzinedine/projecteuler.net) | Ruby
+| | Ruby | [AI Course Problems](https://github.com/jzinedine/aiexercises) | Ruby
 | **Java** | | |
 | | Java | [Spring Boot Microservice Archetype Project](https://github.com/paisley-digital/embryo) | Spring Boot, OAuth 2.0 Integration, Docker Images, Declarative Jenkins CI/CD, Kubernetes Integration, Jacoco Code Coverage, Jersey, JPA, OpenAPI Documentation, SonarQube, Lombok, JUnit, Mockito
 | | Java | [Spring Boot Cross Cutting Concerns Module](https://github.com/paisley-digital/cross-cutting) | Logging, Authentication using OAuth 2.0, JWT, Exception Handling and Uniform responses including Constraint Violation and Validation Errors
