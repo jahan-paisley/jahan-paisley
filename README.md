@@ -12,7 +12,7 @@
 - !-->
 
 
-| Main Language/Purpose                       | Project                                          | Technologies
+| Main Language/Purpose                       | Project                                          | Technologies | 
 | ------------------------------------------- | ------------------------------------------- | ----------------------------------------------------- | -----------------------------------------------------
 | **OCaml** |  | 
 | | OCaml | ["Introduction to Functional Programming in OCaml" problems](https://github.com/jzinedine/ocaml-learning) | OCaml
