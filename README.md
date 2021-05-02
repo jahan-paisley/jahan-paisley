@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning problem solving, CS, OCaml and Architecture!
 - 👯 I’m looking to collaborate on a Formal Verification project
 - 📫 How to reach me: "my github username"@gmail.com
+- 💬 Ask me about how to learn programming or freelancing, I'd like to help others through sharing my experience and know-how :-)
 - ⚡ Fun fact: I love to play with different programming languauges and once in a while build a breakable toy or a serious project with them :-)
 
 <!-- 
