@@ -28,5 +28,7 @@
 | | Java | [Spring Batch Sample](https://github.com/jzinedine/Spring-Batch-Challenge) | Spring, Spring Batch, Batch Error Handling, CSV
 | | Java/Nodejs | [WebRTC Sample](https://github.com/jzinedine/video-chat) | Java EE/Jakarta EE, IBM Liberty Microprofile, WebRTC, NodeJS
 | | Java/Problem Solving | [Codility/CodeSignal/LeetCode Problems](https://github.com/jzinedine/codility) | Java, JUnit, Property Based Testing
+| **Clojure** | | | 
+| | Clojure | [Sample Web App in Clojure](https://github.com/jzinedine/cp-infra/tree/master/src/cp_infra) | Clojure, Pedestal, Web Services
 | **Rust** | | | 
 | | Rust/Problem Solving | [Hanoi Problem in Rust with invariant cheks](https://github.com/jzinedine/rust_playground) | Rust
