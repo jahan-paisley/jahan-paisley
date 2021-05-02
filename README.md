@@ -24,7 +24,7 @@
 | **Java** | | |
 | | Java | [Spring Boot Microservice Archetype Project](https://github.com/paisley-digital/embryo) | Spring Boot, OAuth 2.0 Integration, Docker Images, Declarative Jenkins CI/CD, Kubernetes Integration, Jacoco Code Coverage, Jersey, JPA, OpenAPI Documentation, SonarQube, Lombok, JUnit, Mockito
 | | Java | [Spring Boot Cross Cutting Concerns Module](https://github.com/paisley-digital/cross-cutting) | Logging, Authentication using OAuth 2.0, JWT, Exception Handling and Uniform responses including Constraint Violation and Validation Errors
-| | Java/Netty | [Snake Game using Netty](https://github.com/jzinedine/snake-game) | Java, Netty, Websocket, HTML Canvas
+| | Java/Javascript | [Snake Game using Netty](https://github.com/jzinedine/snake-game) | Java, Netty, Websocket, HTML Canvas
 | | Java | [Spring Batch Sample](https://github.com/jzinedine/Spring-Batch-Challenge) | Spring, Spring Batch, Batch Error Handling, CSV
 | | Java/Nodejs | [WebRTC Sample](https://github.com/jzinedine/video-chat) | Java EE/Jakarta EE, IBM Liberty Microprofile, WebRTC, NodeJS
 | | Java/Problem Solving | [Codility/CodeSignal/LeetCode Problems](https://github.com/jzinedine/codility) | Java, JUnit, Property Based Testing
