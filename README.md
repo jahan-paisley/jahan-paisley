@@ -10,3 +10,9 @@
 - 💬 Ask me about whatever ;-)
 - 🤔 I’m looking for help with building a website to list wonderful business services and products 
 - !-->
+
+
+| Projects and Sample Code                                        | Technologies                                           |
+| ------------------------------------------- | ----------------------------------------------------- |
+| OCaml | https://github.com/jzinedine/ocaml-learning |
+
