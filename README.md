@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~0174056fe6a10d54d1)
-- 🌱 I’m currently learning problem solving, CS, OCaml and Architecture!
-- 👯 I’m looking to collaborate on a Formal Verification project
-- 📫 How to reach me: "my github username"@gmail.com
-- 💬 Ask me about how to learn programming or freelancing, I'd like to help others through sharing my experience and know-how 🤙
-- ⚡ Fun fact: I love to play with different programming languauges and once in a while build a breakable toy or a serious project with them 😉
+- 🔭 I'm currently working on [Upwork](https://www.upwork.com/freelancers/~0174056fe6a10d54d1)
+- 🌱 I'm currently learning problem-solving, CS, OCaml, and Architecture!
+- 👯 I'm looking to collaborate on a Formal Verification project
+- 📫 How to reach me: "my Github username" @gmail.com
+- 💬 Ask me about how to learn programming or freelancing; I'd like to help others by sharing my experience and know-how 🤙
+- ⚡ Fun fact: I love to play with different programming languages and once in a while build a breakable toy or a serious project with them 😉
 
 <!-- 
 - 💬 Ask me about whatever ;-)
-- 🤔 I’m looking for help with building a website to list wonderful business services and products 
+- 🤔 I'm looking for help building a website(sth like TrustPilot) to list outstanding business services and products 
 - !-->
 
 
