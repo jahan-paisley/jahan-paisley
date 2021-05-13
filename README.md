@@ -5,7 +5,7 @@
 - 👯 I'm looking to collaborate on a Formal Verification project
 - 📫 How to reach me: "my Github username" @gmail.com
 - 💬 Ask me about how to learn programming or freelancing; I'd like to help others by sharing my experience and know-how 🤙
-- ⚡ Fun fact: I love to play with different programming languages and once in a while build a breakable toy or a serious project with them 😉
+- ⚡ Fun fact: I love to play with new/old programming languages and once in a while build a breakable toy or a serious project 😉
 
 <!-- 
 - 💬 Ask me about whatever ;-)
