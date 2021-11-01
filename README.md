@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to play with new/old programming languages and build a breakable toy or sometimes a more serious project  😉
 
 <!-- 
-- 💬 Ask me about whatever ;-)
+- 💬 Ask me anything ;-)
 - 🤔 I'm looking for help building a website(sth like TrustPilot) to list outstanding business services and products 
 - !-->
 
@@ -33,4 +33,4 @@
 | **Clojure** | | | 
 | | Clojure | [Sample Web App in Clojure](https://github.com/jzinedine/cp-infra/tree/master/src/cp_infra) | Clojure, Pedestal, Web Services
 | **Rust** | | | 
-| | Rust/Problem Solving | [Hanoi Problem in Rust with invariant cheks](https://github.com/jzinedine/rust_playground) | Rust
+| | Rust/Problem Solving | [Hanoi Problem in Rust with invariant checks](https://github.com/jzinedine/rust_playground) | Rust
