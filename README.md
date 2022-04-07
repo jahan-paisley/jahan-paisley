@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working on [Upwork](https://www.upwork.com/freelancers/~0174056fe6a10d54d1)
-- 🌱 I'm always learning and imroving my problem-solving, CS, OCaml, and Design/Architecture skills!
+- 🌱 I'm always learning and imroving my problem-solving, CS, Programming, and Design/Architecture skills!
 - 👯 I'm looking to collaborate on a Formal Verification project
 - 📫 How to reach me: "my Github username" @gmail.com
 - 💬 Ask me about how to learn programming or freelancing; I'd like to help others by sharing my experience and know-how 🤙
